@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **I'm also an aspiring Model/Actor.**
 
+  ![Tech Coding GIF by Pudgy Penguins](https://github.com/user-attachments/assets/eafac43c-190a-42ea-ad2b-9b1b8ee8c012)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/Sbabalo Nkompela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sbabalo Nkompela" height="30" width="40" /></a>
