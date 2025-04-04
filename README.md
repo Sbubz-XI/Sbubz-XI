@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sbabalo (Sbubz) Nkompela</h1>
 <h3 align="center">An aspiring Software developer from South Africa</h3>
 
-- 🔭 I’m currently working on Tailwind Css [SDF_05](https://github.com/Sbubz-XI/SDF_05_SBANKO25128_fto2502_b2_Sbabalo-NKompela_SDF05.git)
+- 🔭 I’m currently working on Tailwind Css [Website Portfolio](https://github.com/Sbubz-XI/SBANKO25128_fto2502_B2_SbabaloNkompela_SDF_Portfolio_Piece.git)
 
 - 🌱 I’m currently learning **Tailwind CSS and CSS Frameworks**
 
